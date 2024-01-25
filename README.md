@@ -1,3 +1,1 @@
-# pindra-dev
-
 demo
