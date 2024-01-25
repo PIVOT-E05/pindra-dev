@@ -1,3 +1,2 @@
 # pindra-dev
 
-pivot
